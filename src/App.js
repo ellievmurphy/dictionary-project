@@ -9,7 +9,16 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer>Open-sourced by Ellie Murphy on GitHub</footer>
+        <footer>
+          Open-sourced by Ellie Murphy on{" "}
+          <a
+            href="https://github.com/ellievmurphy/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
