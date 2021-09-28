@@ -6,6 +6,12 @@
   margin: 20px 0;
 }
 
+.Dictionary .search {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 16px;
+}
+
 .Dictionary input {
   width: 100%;
   padding: 6px 8px;
